@@ -1,0 +1,21 @@
+{
+  "development": {
+    "url": "postgres://yritmgug:9jUPnw3GcyYKsT6fpKWKaq6cQFqF3fvz@hattie.db.elephantsql.com/yritmgug",
+    "dialect": "postgres",
+    "operatorsAliases": "0"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
